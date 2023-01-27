@@ -13,5 +13,7 @@ elif total <= 9:
 else: # must be the value of 10
 	print("your number is 10!")
 
-for i in range:
-	
+for i in range(total):
+	print(i)
+
+print("This is so cool!!")
