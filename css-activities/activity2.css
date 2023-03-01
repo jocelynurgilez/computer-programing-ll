@@ -1,0 +1,45 @@
+.odd{
+  background-color: lightpink;
+  font-size: 28px;
+  font-family: Verdana, "Dejavu Sans", "sans-serif;";
+}
+
+.even{
+ color: Blue;
+ font-size:36px;
+ font-family: Verdana, "Dejavu Sans", "sans-serif;";
+}
+
+.third{
+  font-size: 28px;
+  background-color:lightpink;
+  font-family: font-family: Verdana, "Dejavu Sans", "sans-serif;";
+}
+
+.fourth{
+  background-color:limegreen;
+  font-size:28px;
+font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.fifth{
+  border: dotted 4px black;
+}
+
+.sixth{
+
+}
+
+
+h1, h2, h3 {
+  color: darkred;
+  background-color: black;
+}
+
+h2{
+  background-color: honeydew;
+}
+
+h1{
+  font-family: cursive;
+}

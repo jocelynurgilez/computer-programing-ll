@@ -1,0 +1,22 @@
+/**
+*{
+color : white;
+background-color: #0f4c81;
+border-block-style: solid;
+border-block-color: pink;
+border-block-style: solid;
+border-block-color: green;
+text-align : center;
+}*/
+
+.service-change{
+	font-weight: bold;
+	color: red;
+}
+.normal-service {
+	color:green;
+}
+
+.all-trains {
+	font-size: 25px;
+}
