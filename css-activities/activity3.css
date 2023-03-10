@@ -1,0 +1,23 @@
+#id1{
+	background-color: Black;
+	color: white;
+}
+
+#id2{
+	background-color: yellow;
+}
+
+#id1, #id2{
+	font-size: 28px;
+	font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+button{
+	font-size: 28px;
+	font-family: helvetica,"Times New Roman", sans-seri;
+
+}
+
+#id3{
+	font-family: helvetica,"Times New Roman", sans-seri;
+}

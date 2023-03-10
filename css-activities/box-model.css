@@ -1,0 +1,21 @@
+#content{
+	width:590px;
+	height:350px;
+	background-color: hotpink;
+	padding-left:55px;
+	padding-right: 55px;
+	padding-top: 120px;
+	padding-bottom:120px;
+	border:25px #007FFF solid;
+	margin-left: 165px;
+	margin-right:165px;
+	margin-top: 30px;
+	margin-bottom:30px;
+
+}
+
+.container {
+width: 1080px;
+height: 700px;
+background-color: skyblue;
+}
