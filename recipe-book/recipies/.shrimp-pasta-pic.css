@@ -1,0 +1,30 @@
+.shrimp-pasta-pic{
+/*  border: auto;*/
+  border-style: dotted;
+  text-align: center;
+  border-color: #b6c199;
+  /*background-color: #b6c199; */
+  border-width: 15px;
+  margin: auto;
+  width: auto;
+/*  margin: 12px;*/
+}
+
+.shrimp-pasta-steps{
+  width:800px;
+  margin: auto;
+  background-color:#c8b7a6 ;
+  text-align: center;
+  padding: 32px;
+  border:15px solid blue;
+  border-color: white;
+/*  text-decoration: ;*/
+
+
+/*  text-decoration: ;*/
+}
+
+body {
+  background-color:  #6699CC; /* #B4B4B4 ; */
+  font-family: serif;
+}
