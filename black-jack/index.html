@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Black-jack </title>
+	<link rel="stylesheet" href ="styles.css">
+</head>
+<body>
+	<button onclick="openInstructions()"> Instructions </button>
+	<button onclick="hit()" disabled="true" id = "hit"> Hit </button>
+	<button onclick="stay()" disabled="true" id = "stay"> Stay </button>
+	<button onclick="start()"> Start </button>
+
+	<p id = "dealer-cards"> Dealer cards: </p>
+	<p id = "user-cards"> Player cards: </p>
+
+	<p id = "user-sum"> User sum: </p>
+	<p id = "dealer-sum"> Dealer Sum: </p>
+
+	<!-- The Modal -->
+	<div id="myModal" class="modal">
+
+ <!-- Modal content -->
+ 	<div class="modal-content">
+ 	<span id="instructions-btn" onclick="closeInstructions()">&times;</span>
+ 	<p> How to play:</p>
+ 	<p>
+ 		<ol>
+			<li> You will get 2 cards, you will reveal one, and the other is facing downward. </li>
+			<li> Only you will see the second card. </li>
+		</ol>
+		<il>
+			<li> Your goal is to get 21 or as close as possible without going over 21</li>
+			<li> If you go over, you automatically lose</li>
+
+
+
+	</div>
+
+
+
+</div>
+<script type="text/javascript" src="index.js"></script>
+</body>
+</html>
